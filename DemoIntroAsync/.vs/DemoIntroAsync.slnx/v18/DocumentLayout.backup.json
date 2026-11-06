@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|c:\\users\\user\\desktop\\demointroasync\\demointroasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|solutionrelative:demointroasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|c:\\users\\user\\desktop\\demointroasync\\demointroasync\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|solutionrelative:demointroasync\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|c:\\users\\user\\desktop\\demointroasync\\demointroasync\\demointroasync.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|solutionrelative:demointroasync\\demointroasync.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|C:\\Users\\User\\Desktop\\DemoIntroAsync\\demointroasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FFB88BF-D9BB-3BF8-35D4-F85B541C413B}|DemoIntroAsync\\DemoIntroAsync.csproj|solutionrelative:demointroasync\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\Imagen.cs",
+              "RelativeDocumentMoniker": "DemoIntroAsync\\Imagen.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\Imagen.cs",
+              "RelativeToolTip": "DemoIntroAsync\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T08:43:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoIntroAsync",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\DemoIntroAsync.csproj",
+              "RelativeDocumentMoniker": "DemoIntroAsync\\DemoIntroAsync.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\DemoIntroAsync.csproj",
+              "RelativeToolTip": "DemoIntroAsync\\DemoIntroAsync.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-05T08:06:18.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoIntroAsync\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\Form1.cs",
+              "RelativeToolTip": "DemoIntroAsync\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T06:26:23.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\Form1.cs",
+              "RelativeDocumentMoniker": "DemoIntroAsync\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DemoIntroAsync\\DemoIntroAsync\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DemoIntroAsync\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:21:25.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
